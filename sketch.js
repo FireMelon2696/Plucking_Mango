@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(#808080);
+  background(#fcf9f9);
   imageMode(CENTER);
   image(boy,300,500,200,300);
   image(tree,1050,300,500,700);
